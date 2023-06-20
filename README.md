@@ -1,16 +1,35 @@
-### Hi there 👋
+# Moein Najafi
 
-<!--
-**moeinnajafi1998/moeinnajafi1998** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full Stack Web Developer
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## Authors
+
+- [@moeinnajafi1998](https://github.com/moeinnajafi1998)
+
+# SUMMARY
+An interested developer to learn more and more. Responsible, Progressive, has a team spirit, regular and accurate, with ability to interact and communicate.
+
+
+
+# 🛠 Skills
+
+- Languages: Python, Java, TypeScript & ES6, HTML5 & CSS3 (tagging language)
+- Frameworks: Django, Angular & RXjs, Servlets and JSP, Bootstrap
+- DBs: PostgreSQL, MongoDB, MySQL, SQL Server
+- API: DRF, RESTful API, SOAP
+- Concepts: OOP, Design Pattern, Thread and Concurrency, TDD, Service Oriented, Cloud, Data Mining, Microservice, Socket Programming, RUP & UML, Scrum & Agile, Reverse Engineering, Web Security and Attacks, Relational vs. NoSQL, solid principles Tools: GIT, Azure DevOps, Swagger, Postman, Wireshark, Burp Suite, Linux, HTTP, VM, ESXI, SEO
+
+
+
+## WORK EXPERIENCE
+- 
+- 
+-
+-
+-
+
+## EDUCATION
+-
+-

@@ -24,12 +24,8 @@ An interested developer to learn more and more. Responsible, Progressive, has a 
 
 
 ## WORK EXPERIENCE
-- 
-- 
--
--
--
+- I've been working since 2016
+
 
 ## EDUCATION
--
--
+- Master degree from IUST

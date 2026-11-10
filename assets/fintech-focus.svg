@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="202" viewBox="0 0 1200 202" role="img" aria-labelledby="title desc">
+  <title id="title">Fintech focus areas</title>
+  <desc id="desc">Three cards for digital lending, buy now pay later, and banking and payments.</desc>
+  <defs>
+    <linearGradient id="card" x2="384" y2="202" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#15252b"/>
+      <stop offset="1" stop-color="#102027"/>
+    </linearGradient>
+  </defs>
+
+  <g font-family="Segoe UI, Helvetica, Arial, sans-serif">
+    <g>
+      <rect x="1" y="1" width="382" height="200" rx="21" fill="url(#card)" stroke="#355052" stroke-width="2"/>
+      <rect x="27" y="28" width="58" height="58" rx="15" fill="#1d3b35"/>
+      <g fill="none" stroke="#a6eabf" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <path d="M44 40h17l8 8v27H44zM61 40v9h8M50 56h13m-13 6h13m-13 6h9"/>
+      </g>
+      <text x="356" y="57" fill="#9bb5af" font-size="14" letter-spacing="2" text-anchor="end">01 / CREDIT</text>
+      <text x="27" y="132" fill="#f2f5ef" font-size="31" font-weight="600">Digital Lending</text>
+      <text x="27" y="167" fill="#b6ccca" font-size="20">Credit products and integrations</text>
+    </g>
+
+    <g transform="translate(408)">
+      <rect x="1" y="1" width="382" height="200" rx="21" fill="url(#card)" stroke="#5a513e" stroke-width="2"/>
+      <rect x="27" y="28" width="58" height="58" rx="15" fill="#3a3327"/>
+      <g fill="none" stroke="#f0d39e" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <rect x="42" y="44" width="28" height="26" rx="4"/>
+        <path d="M42 52h28m-20-11v6m12-6v6m-13 13h3m3 0h3m3 0h3"/>
+      </g>
+      <text x="356" y="57" fill="#c7b89b" font-size="14" letter-spacing="2" text-anchor="end">02 / INSTALLMENTS</text>
+      <text x="27" y="132" fill="#f2f5ef" font-size="31" font-weight="600">BNPL</text>
+      <text x="27" y="167" fill="#b6ccca" font-size="20">Buy now, pay later</text>
+    </g>
+
+    <g transform="translate(816)">
+      <rect x="1" y="1" width="382" height="200" rx="21" fill="url(#card)" stroke="#3b525e" stroke-width="2"/>
+      <rect x="27" y="28" width="58" height="58" rx="15" fill="#253c48"/>
+      <g fill="none" stroke="#b3d9ed" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <rect x="39" y="45" width="34" height="24" rx="5"/>
+        <path d="M39 53h34m-26 9h8m8 0h3"/>
+      </g>
+      <text x="356" y="57" fill="#a0b8c6" font-size="14" letter-spacing="2" text-anchor="end">03 / TRANSACTIONS</text>
+      <text x="27" y="132" fill="#f2f5ef" font-size="31" font-weight="600">Banking &amp; Payments</text>
+      <text x="27" y="167" fill="#b6ccca" font-size="20">Banking systems and PSPs</text>
+    </g>
+  </g>
+</svg>
